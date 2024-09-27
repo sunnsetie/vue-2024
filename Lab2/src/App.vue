@@ -1,6 +1,6 @@
 <template>
   <div id="app" class="app-container">
-    <h1>Adventure Reviews</h1>
+    <h1>New trips on fall season! Full details on our Instagram account</h1>
 
     <div class="reviews-container">
       <div class="review-row" v-for="row in displayedPeopleRows" :key="row[0].id">
